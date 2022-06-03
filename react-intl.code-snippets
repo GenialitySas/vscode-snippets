@@ -22,7 +22,6 @@
 		"prefix": "intlu",
 		"body": [
 			"intl = useIntl();",
-			"",
 		],
 		"description": "Create a react-intl object",
 	},
@@ -31,7 +30,6 @@
 		"prefix": "intli",
 		"body": [
 			"import useIntl from 'react-intl';",
-			"",
 		],
 		"description": "Import react-intl",
 	},
